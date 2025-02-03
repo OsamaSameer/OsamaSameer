@@ -9,9 +9,6 @@ I am a passionate Computer Engineering graduate with a deep love for **Artificia
 - 🔭 I have completed my **Bachelor's degree in Computer Engineering**, with a deep passion for **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **Robotics**. I love turning complex problems into elegant solutions through code, algorithms, and innovative technologies.
 - 🌟 **What motivates me?**  
   I’m driven by the endless possibilities of technology to transform lives and solve real-world problems. Whether it’s building intelligent systems, crafting seamless web experiences, or sharing knowledge through writing, I thrive on the challenge of learning, creating, and innovating. My goal is to make technology accessible and impactful for everyone.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## 🚀 Projects
 
